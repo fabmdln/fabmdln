@@ -1,15 +1,15 @@
 # 👋 Bonjour, bienvenue sur ma page !
 
 Je m’appelle **Fabien Madelaine**, passionné par l’informatique et les données depuis de nombreuses années. J’ai choisi de réorienter ma carrière vers le domaine en pleine expansion de **l’analyse data**, alliant passion et expertise acquise au fil de mes expériences professionnelles.
-Je prends particulièrement plaisir à coder en **Python** et je m’intéresse vivement aux enjeux de l’**ingénierie des données**.
+Je prends particulièrement plaisir à coder en **Python** et visualiser les données avec Power BI. Je m’intéresse vivement aux enjeux de l’**ingénierie des données**.
 
 ---
 
 ## 💼 Parcours Professionnel
 - **Actuellement** : Chef de projet en analyse data (candidature pour Aéroworld)
-- **Expérience** : 20+ ans dans le secteur technique (expertise en gestion de projet et analyse)
+- **Expérience** : 20+ ans dans le secteur technique (expertise en developpement web, gestion de projet et analyse)
 - **Formation** : Certification en analyse data (programme intensif validé)
-- **Développement continu** : Autoformation et projets pratiques axés sur **Python, l’ingénierie des données et la visualisation**.
+- **Développement continu** : Autoformation et projets pratiques axés sur **Python, l’ingénierie des données et la visualisation avec Power BI**.
 
 ---
 
