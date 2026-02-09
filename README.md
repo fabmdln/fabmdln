@@ -1,15 +1,16 @@
 # 👋 Bonjour, bienvenue sur ma page !
 
-Je m’appelle **Fabien Madelaine**, passionné par l’informatique et les données depuis de nombreuses années. J’ai choisi de réorienter ma carrière vers le domaine en pleine expansion de **l’analyse data**, alliant passion et expertise acquise au fil de mes expériences professionnelles.
-Je prends particulièrement plaisir à coder en **Python** et visualiser les données avec Power BI. Je m’intéresse vivement aux enjeux de l’**ingénierie des données**.
-
+Je m’appelle **Fabien Madelaine**, Passionné par le numérique et les données, je cumule 20 ans d’expérience en développement web, communication et transformation digitale.
+Actuellement administrateur fonctionnel au sein du service Innovation et Transformation Digitale d’une grande entreprise calédonienne, j’ai toujours allié curiosité technique et résolution de problèmes pour accompagner les transitions numériques.
+Autodidacte dans l’âme, j’ai construit mon expertise en me formant en continu, et je finalise actuellement un diplôme de niveau 6 en analyse data pour structurer cette passion et me spécialiser dans la valorisation des données.
 ---
+##Mon parcours unique me permet de :
+✅ Comprendre les enjeux métiers (grâce à mon expérience terrain en entreprise).
+✅ Traduire des besoins complexes en solutions techniques (merci le développement web et la communication !).
+✅ Incarner une posture de consultant : pédagogie, adaptabilité et challenge des besoins pour proposer des solutions data-driven.
+Pourquoi la data ?
+Parce que je vois dans les données un levier d’innovation et d’efficacité, surtout dans des environnements comme la Nouvelle-Calédonie, où la transformation digitale est un enjeu clé.
 
-## 💼 Parcours Professionnel
-- **Actuellement** : Chef de projet en analyse data (candidature pour Aéroworld)
-- **Expérience** : 20+ ans dans le secteur technique (expertise en developpement web, gestion de projet et analyse)
-- **Formation** : Certification en analyse data (programme intensif validé)
-- **Développement continu** : Autoformation et projets pratiques axés sur **Python, l’ingénierie des données et la visualisation avec Power BI**.
 
 ---
 
