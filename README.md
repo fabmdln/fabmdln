@@ -1,6 +1,6 @@
 # 👋 Bonjour, bienvenue sur ma page !
 
-Je m’appelle **Fabien Madelaine**, passionné par l’informatique et les données depuis de nombreuses années. J’ai choisi de réorienter ma carrière vers le domaine en pleine expansion de la **l’analyse data**, alliant passion et expertise acquise au fil de mes expériences professionnelles.
+Je m’appelle **Fabien Madelaine**, passionné par l’informatique et les données depuis de nombreuses années. J’ai choisi de réorienter ma carrière vers le domaine en pleine expansion de **l’analyse data**, alliant passion et expertise acquise au fil de mes expériences professionnelles.
 Je prends particulièrement plaisir à coder en **Python** et je m’intéresse vivement aux enjeux de l’**ingénierie des données**.
 
 ---
