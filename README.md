@@ -8,12 +8,12 @@ Je m’appelle **Fabien Madelaine**, passionné par le **numérique et les donn�
 Actuellement **administrateur fonctionnel** au sein du service **Innovation et Transformation Digitale** d’une grande entreprise calédonienne, j’ai toujours allié **curiosité technique** et **résolution de problèmes** pour accompagner les transitions numériques.
 **Autodidacte** dans l’âme, j’ai construit mon expertise en me formant en continu. Je finalise actuellement un **diplôme de niveau 6 en analyse data** pour structurer cette passion et me spécialiser dans la **valorisation des données**.
 
-Mon parcours unique me permet de :
-✅ **Comprendre les enjeux métiers** (grâce à mon expérience terrain en entreprise).
-✅ **Traduire des besoins complexes en solutions techniques** (merci le développement web et la communication !).
-✅ **Incarner une posture de consultant** : pédagogie, adaptabilité et challenge des besoins pour proposer des solutions **data-driven**.
+**Mon parcours unique me permet de :**<br>
+✅ **Comprendre les enjeux métiers** (grâce à mon expérience terrain en entreprise).<br>
+✅ **Traduire des besoins complexes en solutions techniques** (merci le développement web et la communication !).<br>
+✅ **Incarner une posture de consultant** : pédagogie, adaptabilité et challenge des besoins pour proposer des solutions **data-driven**.<br>
 
-**Pourquoi la data ?**
+**Pourquoi la data ?**<br>
 Parce que je vois dans les données un **levier d’innovation et d’efficacité** où la transformation digitale est un enjeu clé.
 
 ---
