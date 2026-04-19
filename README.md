@@ -6,7 +6,7 @@ Je m’appelle **Fabien Madelaine**, passionné par le **numérique et les donn�
 
 ## 📌 À propos de moi
 Actuellement **administrateur fonctionnel** au sein du service **Innovation et Transformation Digitale** d’une grande entreprise calédonienne, j’ai toujours allié **curiosité technique** et **résolution de problèmes** pour accompagner les transitions numériques.
-**Autodidacte** dans l’âme, j’ai construit mon expertise en me formant en continu. Je finalise actuellement un **diplôme de niveau 6 en analyse data** pour structurer cette passion et me spécialiser dans la **valorisation des données**.
+**Autodidacte** dans l’âme, j’ai construit mon expertise en me formant en continu. Je suis **diplôme de niveau 6 en analyse data**.
 
 **Mon parcours unique me permet de :**<br>
 ✅ **Comprendre les enjeux métiers** (grâce à mon expérience terrain en entreprise).<br>
